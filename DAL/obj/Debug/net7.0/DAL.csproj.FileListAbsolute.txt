@@ -1,0 +1,14 @@
+E:\code\WuStore\WuStore\server\DAL\bin\Debug\net7.0\DAL.deps.json
+E:\code\WuStore\WuStore\server\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+E:\code\WuStore\WuStore\server\DAL\bin\Debug\net7.0\DAL.dll
+E:\code\WuStore\WuStore\server\DAL\bin\Debug\net7.0\DAL.pdb
+E:\code\WuStore\WuStore\server\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+E:\code\WuStore\WuStore\server\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\WuStore\WuStore\server\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+E:\code\WuStore\WuStore\server\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+E:\code\WuStore\WuStore\server\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+E:\code\WuStore\WuStore\server\DAL\obj\Debug\net7.0\DAL.dll
+E:\code\WuStore\WuStore\server\DAL\obj\Debug\net7.0\refint\DAL.dll
+E:\code\WuStore\WuStore\server\DAL\obj\Debug\net7.0\DAL.pdb
+E:\code\WuStore\WuStore\server\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+E:\code\WuStore\WuStore\server\DAL\obj\Debug\net7.0\ref\DAL.dll

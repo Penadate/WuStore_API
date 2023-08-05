@@ -1,0 +1,15 @@
+E:\code\WuStore\WuStore\server\BLL\bin\Debug\net7.0\BLL.deps.json
+E:\code\WuStore\WuStore\server\BLL\bin\Debug\net7.0\BLL.dll
+E:\code\WuStore\WuStore\server\BLL\bin\Debug\net7.0\BLL.pdb
+E:\code\WuStore\WuStore\server\BLL\bin\Debug\net7.0\DAL.dll
+E:\code\WuStore\WuStore\server\BLL\bin\Debug\net7.0\DAL.pdb
+E:\code\WuStore\WuStore\server\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+E:\code\WuStore\WuStore\server\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\WuStore\WuStore\server\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+E:\code\WuStore\WuStore\server\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+E:\code\WuStore\WuStore\server\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+E:\code\WuStore\WuStore\server\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+E:\code\WuStore\WuStore\server\BLL\obj\Debug\net7.0\BLL.dll
+E:\code\WuStore\WuStore\server\BLL\obj\Debug\net7.0\refint\BLL.dll
+E:\code\WuStore\WuStore\server\BLL\obj\Debug\net7.0\BLL.pdb
+E:\code\WuStore\WuStore\server\BLL\obj\Debug\net7.0\ref\BLL.dll
